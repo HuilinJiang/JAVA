@@ -1,3 +1,3 @@
 # JAVA
-Java finalwork/n
+Java finalwork;
 System is the Student Information Management System
